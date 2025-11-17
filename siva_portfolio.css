@@ -106,7 +106,7 @@ li a .active{
     background-color: var(--second-bg-color);
     /* color: var(--text-color); */
     color: #111010;
-    background-image: url("/My-Portfolio-Project/portfolio project/Images/pexels3.jpg");
+    background-image: url("/My-Portfolio-Project/Images/pexels3.jpg");
     background-repeat: no-repeat;
     background-size:cover;
     background-attachment: scroll;
@@ -391,7 +391,7 @@ a i{
     font-weight: bold;
 }
 .skill-menu,.project-menu,.services{
-    background-image: url("/My-Portfolio-Project/portfolio project/Images/pexels3.jpg");
+    background-image: url("/My-Portfolio-Project/Images/pexels3.jpg");
     background-repeat: no-repeat;
     background-size:cover;
     background-attachment: scroll;
